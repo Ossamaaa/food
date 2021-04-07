@@ -1,3 +1,6 @@
+div {
+    border: 1px solid #665544;}
+
 header nav {
     background-color: #feffde ;
 }
@@ -19,4 +22,10 @@ footer{
 
 #benifits p{
     background-color: #ddffbc;
+}
+
+#sec {
+
+    background-color: #2f530a;
+
 }
